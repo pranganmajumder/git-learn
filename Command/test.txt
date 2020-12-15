@@ -9,3 +9,5 @@ This is the ammend testing 3
 appscode 1
 
 appscode 2
+
+https://www.datree.io/resources/git-error-fatal-remote-origin-already-exists
