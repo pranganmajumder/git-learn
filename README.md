@@ -145,7 +145,7 @@ Create a new branch for every new feature. Each branch has a clear, highly focus
    git push
    ```
 
-Sources: [feature branch workflow], [git-push]
+Sources: [feature branch workflow], [git-push] , [Martinux]( https://github.com/martinus)
 
 ---
 [stackoverflow]: http://stackoverflow.com/a/5343146/48181
@@ -156,4 +156,3 @@ Sources: [feature branch workflow], [git-push]
 [head]: http://stackoverflow.com/a/2304106/48181
 [Ancestry]: https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection#Ancestry-References
 [Undoing Changes]: https://www.atlassian.com/git/tutorials/undoing-changes
-[Martinux]( https://github.com/martinus)
