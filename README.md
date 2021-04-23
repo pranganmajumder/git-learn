@@ -155,6 +155,7 @@ Create a new branch for every new feature. Each branch has a clear, highly focus
 * [Ancestry](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection#Ancestry-References)
 * [Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes)
 * [50 commands to know freecodecamp]( https://www.freecodecamp.org/news/git-cheat-sheet/)
+* https://training.github.com/downloads/github-git-cheat-sheet/
 
 Sources: [feature branch workflow], [git-push] , [Martinux]( https://github.com/martinus)
 
