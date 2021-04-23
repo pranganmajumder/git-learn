@@ -5,7 +5,6 @@
 * Ancestry References
    * `^` Parent of that commit. E.g. `git show HEAD^` to show parent of HEAD or `git show d921970^2` means the second parent of d921970.
 
-Sources: [centralized workflow], [HEAD], [Ancestry]
 
 ## Global Git Configuration
 
@@ -20,7 +19,7 @@ git config --global commit.gpgsign true
 
 ## Signing
 
-Sources: [stackoverflow], [git-credential-store]
+
 
 ### Undoing Changes
 
@@ -104,7 +103,7 @@ Something bad happens? Go right back to before the pull with `git rebase --abort
    git push origin master
    ```
 
-Sources: [centralized workflow]
+
 
 ### Feature Branch Workflow
 Create a new branch for every new feature. Each branch has a clear, highly focused purpose. Use descriptive names, like `animated-menu-items`. Feature branches should be pushed to the central repository.
