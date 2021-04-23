@@ -160,7 +160,7 @@ Sources: [feature branch workflow], [git-push] , [Martinux]( https://github.com/
 
 | Command               |    Use    |
 | ------------------ | ----------- |
-|`git push --delete origin <branch_name_here>`|remove a remote branch in Git|
+|`git push --delete origin <branch_name_here>`|`remove a remote branch in Git`|
 
 
 
