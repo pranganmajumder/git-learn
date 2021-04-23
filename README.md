@@ -156,3 +156,10 @@ Sources: [feature branch workflow], [git-push] , [Martinux]( https://github.com/
 [head]: http://stackoverflow.com/a/2304106/48181
 [Ancestry]: https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection#Ancestry-References
 [Undoing Changes]: https://www.atlassian.com/git/tutorials/undoing-changes
+[50 commands to know freecodecamp]: https://www.freecodecamp.org/news/git-cheat-sheet/
+
+
+
+
+
+
